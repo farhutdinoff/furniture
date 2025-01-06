@@ -19,7 +19,7 @@
             addToCart(item)
         } else {
             removeFromCart(item)
-        }
+        }   
     }
 
     const onChangeSelect = (event) => {
